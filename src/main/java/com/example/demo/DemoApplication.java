@@ -11,5 +11,6 @@ public class DemoApplication {
 		System.out.println("start.....");
 		SpringApplication.run(DemoApplication.class, args);
 		System.out.println("end.....a");
+        System.out.println("end.....b");
 	}
 }
